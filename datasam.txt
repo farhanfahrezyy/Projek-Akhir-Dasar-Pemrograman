@@ -1,0 +1,1 @@
+modal=1000000;harga=25000;jumlah=40;terjual=30;mati=10;persen_untung=25;keuntungan=187500.0;rugi=250000;
